@@ -1,4 +1,4 @@
-var chocolateBa=["snickers", "hundred grand", "kitkat", "skittles."] /// Example 1 .
+var chocolateBars=["snickers", "hundred grand", "kitkat", "skittles."] /// Example 1 .
 
 
 

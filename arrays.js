@@ -1,10 +1,10 @@
-var chocolateBa=["snickers", "hundred grand", "kitkat", "skittles."] /// Example 1 . 
+var chocolateBa=["snickers", "hundred grand", "kitkat", "skittles."] /// Example 1 .
 
 
 
 function addElementToBeginningOfArray(array,element){
   return [element,...array]
-  
+
 }
 function destructivelyAddElementToBeginningOfArray(array,element)
 {
